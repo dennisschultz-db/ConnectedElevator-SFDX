@@ -1,0 +1,2765 @@
+[
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1510958144000,
+            "changeTime": 1510958144000,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1510958144000,
+            "changeTime": 1510958144000,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default",
+            "isDirectory": true,
+            "size": 442,
+            "modifiedTime": 1511023716000,
+            "changeTime": 1511023716000,
+            "contentHash": "f3831043f4b21b8dbedfd1de42574115b35547b6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/applications",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/applications",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "311e35c393bdcbd32b4e0e686de95bdd4fa1d5fe",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/applications/Connected_Elevator.app-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/applications/Connected_Elevator.app-meta.xml",
+            "isDirectory": false,
+            "size": 557,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "470850b4693ae2cee0aa1d4be9541dbbb1981ec4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 272,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "fb4574c98c29ba0dbb77c68e9ecf818fc4436217",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/ElevatorPanelCombined",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/ElevatorPanelCombined",
+            "isDirectory": true,
+            "size": 238,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "2aa6abf73d11c9054dd06cca2747b04430920dc0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/ElevatorPanelCombined/ElevatorPanelCombined.cmp",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/ElevatorPanelCombined/ElevatorPanelCombined.cmp",
+            "isDirectory": false,
+            "size": 3853,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "410cb99beaab1d48f8d459c83529b8a873f38b03",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/ElevatorPanelCombined/ElevatorPanelCombined.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/ElevatorPanelCombined/ElevatorPanelCombined.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/ElevatorPanelCombined/ElevatorPanelCombined.css",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/ElevatorPanelCombined/ElevatorPanelCombined.css",
+            "isDirectory": false,
+            "size": 693,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "76aa8a33f352aee78163243f2ac5afcec998db7d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/ElevatorPanelCombined/ElevatorPanelCombinedController.js",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/ElevatorPanelCombined/ElevatorPanelCombinedController.js",
+            "isDirectory": false,
+            "size": 1594,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "075208cee8a2bcb280d311914ae9f06b652f0bc5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/ElevatorPanelCombined/ElevatorPanelCombinedHelper.js",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/ElevatorPanelCombined/ElevatorPanelCombinedHelper.js",
+            "isDirectory": false,
+            "size": 10046,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "5403bd57c215f516d5c04e1262ea4c00aa893436",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/OrchestrationStatusDisplay",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/OrchestrationStatusDisplay",
+            "isDirectory": true,
+            "size": 238,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "a808161e91cd2cb5bc6c4d0e35216ea5392e4e2f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/OrchestrationStatusDisplay/OrchestrationStatusDisplay.cmp",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/OrchestrationStatusDisplay/OrchestrationStatusDisplay.cmp",
+            "isDirectory": false,
+            "size": 1213,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "45f66e54c6d74bf313c80129292df7cee3de3f87",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/OrchestrationStatusDisplay/OrchestrationStatusDisplay.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/OrchestrationStatusDisplay/OrchestrationStatusDisplay.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/OrchestrationStatusDisplay/OrchestrationStatusDisplay.css",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/OrchestrationStatusDisplay/OrchestrationStatusDisplay.css",
+            "isDirectory": false,
+            "size": 307,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "93d279192c2a3d2d6763e7e080c7b4292cab58dc",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/OrchestrationStatusDisplay/OrchestrationStatusDisplayController.js",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/OrchestrationStatusDisplay/OrchestrationStatusDisplayController.js",
+            "isDirectory": false,
+            "size": 1199,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "18ea9f9a2ab385745fe46783aa8694f1158b3950",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/OrchestrationStatusDisplay/OrchestrationStatusDisplayHelper.js",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/OrchestrationStatusDisplay/OrchestrationStatusDisplayHelper.js",
+            "isDirectory": false,
+            "size": 4927,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "b70d2686fde5782a88e5dcf247758fa3c3c80afd",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/PossibleRiders",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/PossibleRiders",
+            "isDirectory": true,
+            "size": 238,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "30c1e92bf45393d1b4a762b5cdea66870a9ea1a9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/PossibleRiders/PossibleRiders.cmp",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/PossibleRiders/PossibleRiders.cmp",
+            "isDirectory": false,
+            "size": 1496,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "f7fcfb1ef37d87a6249b080b7afcff9908d9b510",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/PossibleRiders/PossibleRiders.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/PossibleRiders/PossibleRiders.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/PossibleRiders/PossibleRiders.css",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/PossibleRiders/PossibleRiders.css",
+            "isDirectory": false,
+            "size": 326,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "3b9552dc5653cad2bcc622170e2dceb9e50783a9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/PossibleRiders/PossibleRidersController.js",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/PossibleRiders/PossibleRidersController.js",
+            "isDirectory": false,
+            "size": 1193,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "05904ac62dadc40e8b70be138f0e78e369c0a65a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/PossibleRiders/PossibleRidersHelper.js",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/PossibleRiders/PossibleRidersHelper.js",
+            "isDirectory": false,
+            "size": 4860,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "6b79fd37f8ac0fdb414c62fbdf2996f5d82163ae",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/PredictedRiders",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/PredictedRiders",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "bce0ca279a8e7ba5a27c9a787a1f64fc1e354bac",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/PredictedRiders/PredictedRiders.cmp",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/PredictedRiders/PredictedRiders.cmp",
+            "isDirectory": false,
+            "size": 837,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "25f652738ded2a55f8f149ca2659d7b637239972",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/PredictedRiders/PredictedRiders.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/PredictedRiders/PredictedRiders.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/PredictedRiders/PredictedRidersController.js",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/PredictedRiders/PredictedRidersController.js",
+            "isDirectory": false,
+            "size": 102,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "f150ee40a1ca20801ec95bda7093cf9ce4b5f824",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/PredictedRiders/PredictedRidersHelper.js",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/PredictedRiders/PredictedRidersHelper.js",
+            "isDirectory": false,
+            "size": 1226,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "51f42084e801b8ffa4a17cc6d172f4288b286cc1",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/RiderPicture",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/RiderPicture",
+            "isDirectory": true,
+            "size": 238,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "b9372f33bfe69abe53de0adbf7e3add7dcd4770a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/RiderPicture/RiderPicture.cmp",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/RiderPicture/RiderPicture.cmp",
+            "isDirectory": false,
+            "size": 979,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "ae6a6d06584e6b97f04a550bb12c1a67b1d50522",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/RiderPicture/RiderPicture.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/RiderPicture/RiderPicture.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/RiderPicture/RiderPicture.css",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/RiderPicture/RiderPicture.css",
+            "isDirectory": false,
+            "size": 143,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "dfed7eef96b110970b829630c5b91c43308bdf4b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/RiderPicture/RiderPictureController.js",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/RiderPicture/RiderPictureController.js",
+            "isDirectory": false,
+            "size": 1193,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "05904ac62dadc40e8b70be138f0e78e369c0a65a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/RiderPicture/RiderPictureHelper.js",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/RiderPicture/RiderPictureHelper.js",
+            "isDirectory": false,
+            "size": 4327,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "655ab1973cfeaf81099806761c4a49a5539a13f3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/defaultTokens",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/defaultTokens",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "9c13df0e131455c056bf7320226e1f7b5dfc93ce",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/defaultTokens/defaultTokens.tokens",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/defaultTokens/defaultTokens.tokens",
+            "isDirectory": false,
+            "size": 51,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "344d8bdedc8b4647935ae86bd3d15bd5653757a4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/defaultTokens/defaultTokens.tokens-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/aura/defaultTokens/defaultTokens.tokens-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes",
+            "isDirectory": true,
+            "size": 2312,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "67804744d14e9bf67456aaf76207fc2ac500e06e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinAI_JWT.cls",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinAI_JWT.cls",
+            "isDirectory": false,
+            "size": 2794,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "d153274d930d1fcc8af5928966478dd780f07d27",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinAI_JWT.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinAI_JWT.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinAI_JWTBearerFlow.cls",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinAI_JWTBearerFlow.cls",
+            "isDirectory": false,
+            "size": 1369,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "d3d696202f6b3cdb7a3de4c1932a666ffe567b72",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinAI_JWTBearerFlow.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinAI_JWTBearerFlow.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_ApiUsage.cls",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_ApiUsage.cls",
+            "isDirectory": false,
+            "size": 586,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "700f8f0bb3fbb7e5e79146cb6338a333d36e33f7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_ApiUsage.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_ApiUsage.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_Dataset.cls",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_Dataset.cls",
+            "isDirectory": false,
+            "size": 575,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "961e5354badd25820bff465e3f613e78b17eac0b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_Dataset.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_Dataset.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_EpochResult.cls",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_EpochResult.cls",
+            "isDirectory": false,
+            "size": 231,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "ba3776c075163302c508742b721cea59ec558942",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_EpochResult.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_EpochResult.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_Example.cls",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_Example.cls",
+            "isDirectory": false,
+            "size": 326,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "3ec1a32ea95154ca18f768f9a8b002b9cb6bc68f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_Example.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_Example.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_HttpBodyPart.cls",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_HttpBodyPart.cls",
+            "isDirectory": false,
+            "size": 7663,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "dc933f7b4759a010d6a5bb87252447465382a185",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_HttpBodyPart.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_HttpBodyPart.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_HttpBodyPartDataset.cls",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_HttpBodyPartDataset.cls",
+            "isDirectory": false,
+            "size": 2218,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "39bba3fe79fd653f9db856f44c84172e9c3557da",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_HttpBodyPartDataset.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_HttpBodyPartDataset.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_HttpBodyPartDatasetUrl.cls",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_HttpBodyPartDatasetUrl.cls",
+            "isDirectory": false,
+            "size": 878,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "8227b77eff9b17e504f7c5c7a6fe62cdf7e59f33",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_HttpBodyPartDatasetUrl.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_HttpBodyPartDatasetUrl.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "ec29c6f2ff617299f8e53d0ea63d440cd27207eb",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_HttpBodyPartExample.cls",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_HttpBodyPartExample.cls",
+            "isDirectory": false,
+            "size": 2234,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "cb21e6157ba89537babe81369670d08369429107",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_HttpBodyPartExample.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_HttpBodyPartExample.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_HttpBodyPartLabel.cls",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_HttpBodyPartLabel.cls",
+            "isDirectory": false,
+            "size": 1138,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "3c2600ccaac0af2dccd87a92d5d560a163203a9d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_HttpBodyPartLabel.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_HttpBodyPartLabel.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_HttpBodyPartPrediction.cls",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_HttpBodyPartPrediction.cls",
+            "isDirectory": false,
+            "size": 1778,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "1374bef399a5eb178c284d4402d51d278d42bf4b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_HttpBodyPartPrediction.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_HttpBodyPartPrediction.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_HttpBodyPartTraining.cls",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_HttpBodyPartTraining.cls",
+            "isDirectory": false,
+            "size": 4221,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "173f9ae8e6ca0e1ab509f6f4500f86d7be7d9b63",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_HttpBodyPartTraining.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_HttpBodyPartTraining.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_HttpClient.cls",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_HttpClient.cls",
+            "isDirectory": false,
+            "size": 4434,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "daf9d5e0b5c3b115034291335c9090e985c51c7c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_HttpClient.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_HttpClient.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_Label.cls",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_Label.cls",
+            "isDirectory": false,
+            "size": 261,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "06e4d3c3b5b7ec711131205b0046f64c74667c2b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_Label.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_Label.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_LabelSummary.cls",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_LabelSummary.cls",
+            "isDirectory": false,
+            "size": 120,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "48a23c8f9df756b7a36d1ae3f447548cd6ae6381",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_LabelSummary.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_LabelSummary.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_Model.cls",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_Model.cls",
+            "isDirectory": false,
+            "size": 903,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "6afd247d007793d569d5cf4be44fb626dfa5e17e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_Model.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_Model.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_ModelLearningCurve.cls",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_ModelLearningCurve.cls",
+            "isDirectory": false,
+            "size": 281,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "1dbadd65ebb9cb75e25f2f43c568ec4e30fd241d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_ModelLearningCurve.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_ModelLearningCurve.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_ModelMetrics.cls",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_ModelMetrics.cls",
+            "isDirectory": false,
+            "size": 422,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "076bf5bbf24d7c8098dea24aaf293e24eadfdc72",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_ModelMetrics.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_ModelMetrics.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_NoValuesException.cls",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_NoValuesException.cls",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "8d05794d9d424f47f41e1a31886ecface1916b3f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_NoValuesException.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_NoValuesException.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_NullPointerException.cls",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_NullPointerException.cls",
+            "isDirectory": false,
+            "size": 88,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "97fba3a97cab138d266448c7bda2044f1c8f523b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_NullPointerException.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_NullPointerException.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_NumberTooBigException.cls",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_NumberTooBigException.cls",
+            "isDirectory": false,
+            "size": 548,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "8776bcb6c8d28df7b2f316ba598244acf99cd01a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_NumberTooBigException.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_NumberTooBigException.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_NumberTooSmallException.cls",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_NumberTooSmallException.cls",
+            "isDirectory": false,
+            "size": 314,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "de4d9f030ae33ff0431fd08574e189ad48507ed9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_NumberTooSmallException.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_NumberTooSmallException.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_PlanData.cls",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_PlanData.cls",
+            "isDirectory": false,
+            "size": 221,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "44aa3befa6fcf4297b9d09eb6ea4e16f7e1ca197",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_PlanData.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_PlanData.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_PredictionResult.cls",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_PredictionResult.cls",
+            "isDirectory": false,
+            "size": 137,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "13b65a58426f89a633cbc85466b156b866ab85a3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_PredictionResult.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_PredictionResult.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_PredictionService.cls",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_PredictionService.cls",
+            "isDirectory": false,
+            "size": 33663,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "c14da9818753d3977a9a79508c5f0844a2520d83",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_PredictionService.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_PredictionService.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_Probability.cls",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_Probability.cls",
+            "isDirectory": false,
+            "size": 157,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "46b0a548ff90234af43647c0c5775379fb56ec5f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_Probability.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_Probability.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_StringIsEmptyException.cls",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_StringIsEmptyException.cls",
+            "isDirectory": false,
+            "size": 227,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "a12eed100c668a132c00054e84950fd987f04709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_StringIsEmptyException.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_StringIsEmptyException.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_StringTooLongException.cls",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_StringTooLongException.cls",
+            "isDirectory": false,
+            "size": 308,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "79c6c519bdbef49e2cbd2334c130be6cbc77b117",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_StringTooLongException.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_StringTooLongException.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_TooManyValuesException.cls",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_TooManyValuesException.cls",
+            "isDirectory": false,
+            "size": 319,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "61c8159f4d8829c36834710774a455241263152b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_TooManyValuesException.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/EinsteinVision_TooManyValuesException.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/LegoPrediction.cls",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/LegoPrediction.cls",
+            "isDirectory": false,
+            "size": 336,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "fa490e4832b441844b7867001b83ddb413c4c72f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/LegoPrediction.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/LegoPrediction.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/LegoPredictionItem.cls",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/LegoPredictionItem.cls",
+            "isDirectory": false,
+            "size": 272,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "5d22e0ec874bcc2c4ba352c0ace2b6eb19bc993e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/LegoPredictionItem.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/LegoPredictionItem.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/LegoUtility.cls",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/LegoUtility.cls",
+            "isDirectory": false,
+            "size": 11622,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "668a9047b13ecc08825b75d94b85aa3b47ef1b9e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/LegoUtility.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/classes/LegoUtility.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/flexipages",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "size": 170,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "5a18c2d63b7e6b46555117704a3ee0c8f0b07821",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/flexipages/Connected_Elevator_UtilityBar.flexipage-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/flexipages/Connected_Elevator_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 392,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "c377478412559f22c7b931cb1cece95b3cefbb1c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/flexipages/LegoLand_Cube_Dwellers_Elevator_v2.flexipage-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/flexipages/LegoLand_Cube_Dwellers_Elevator_v2.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 1092,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "301c7d470cdd10a1bec096e0500f235cae4c43e5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/flexipages/Ride_Record_Page.flexipage-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/flexipages/Ride_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 3626,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "5473a52067c14acfc5b944fe99ced383db5e64aa",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/globalValueSets",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/globalValueSets",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "4ffe4fe3c45c98cd0684cdde27b7b8c8751b0728",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/globalValueSets/Music_Genres.globalValueSet-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/globalValueSets/Music_Genres.globalValueSet-meta.xml",
+            "isDirectory": false,
+            "size": 883,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "b8f326c0f2437788f4e471c1e49edd0327f8832b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/globalValueSets/Sports.globalValueSet-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/globalValueSets/Sports.globalValueSet-meta.xml",
+            "isDirectory": false,
+            "size": 885,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "247bfe6b6704195d2b9ff2a6d536a777547e59f4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/layouts",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/layouts",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "5680bc7ed483ed3d1abb442e715ac6f4d3177e0b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/layouts/Ride__c-Ride Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/layouts/Ride__c-Ride Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 3957,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "c669796279337ec8670f862484d9ffa41fc991e8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects",
+            "isDirectory": true,
+            "size": 374,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "2efd0f707977747f1efb22cff762fddec63fbfcc",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/ApproachingRider__e",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/ApproachingRider__e",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "512a2f4e56afb895a5b332416ea2f5f2f013388b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/ApproachingRider__e/ApproachingRider__e.object-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/ApproachingRider__e/ApproachingRider__e.object-meta.xml",
+            "isDirectory": false,
+            "size": 396,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "c46300bf71c6c1ea36d7c58dcd637caeec6ab250",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/ApproachingRider__e/fields",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/ApproachingRider__e/fields",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "45c944099a99e9af7bafeba0e62bd00fbd791df7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/ApproachingRider__e/fields/DeviceId__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/ApproachingRider__e/fields/DeviceId__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 459,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "a57887a987f14de1b7598e513eb98406957f785a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/ApproachingRider__e/fields/RiderPictureId__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/ApproachingRider__e/fields/RiderPictureId__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 594,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "0093f68fdd2cad79d9ab41292e22284d55647a67",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Asset",
+        {
+            "state": "u",
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Asset",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 170,
+            "modifiedTime": 1511137390000,
+            "changeTime": 1511137390000,
+            "contentHash": "1511b68eb6e9e371d8fce3707ab89d51df817b2c"
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Asset/Asset.object-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Asset/Asset.object-meta.xml",
+            "isDirectory": false,
+            "size": 103,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "280bec81c7b70604977205601148d4a33006ab0f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Asset/fields",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Asset/fields",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "5fb3253b4a47e64a65d10e984c704b0b6939f563",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Asset/fields/DeviceId__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Asset/fields/DeviceId__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 446,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "24a351e59ecc259dabc71b87d84453c10300a7c5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Asset/fields/Recognition_Threshold__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Asset/fields/Recognition_Threshold__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 470,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "4bb11892cac6ec022be6e78f047b8730121f347d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Contact",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Contact",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "47adfd5ffb5b99db19f7f5b167792192778dbb7e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Contact/Contact.object-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Contact/Contact.object-meta.xml",
+            "isDirectory": false,
+            "size": 103,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "280bec81c7b70604977205601148d4a33006ab0f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Contact/fields",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Contact/fields",
+            "isDirectory": true,
+            "size": 170,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "cefaffec04681f67bd89717520bb1f50bb90fa84",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Contact/fields/Favorite_Music__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Contact/fields/Favorite_Music__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 490,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "de4379b29de076a5c111badecc897dab5779088b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Contact/fields/Favorite_Sport__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Contact/fields/Favorite_Sport__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 484,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "c2b3803724a1ea16dbc43130258cf90e24841b66",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Contact/fields/Office_Floor__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Contact/fields/Office_Floor__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 442,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "598b59bb47eb89802da459d902e76876cf4ed470",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/EinsteinAI_Settings__c",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/EinsteinAI_Settings__c",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "b3a681615284e79d18b64b407f1ee0acddca09fa",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/EinsteinAI_Settings__c/EinsteinAI_Settings__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/EinsteinAI_Settings__c/EinsteinAI_Settings__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 286,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "c71ae60a71f8d3fd4f8766712f07e33027b3bc7e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/EinsteinAI_Settings__c/fields",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/EinsteinAI_Settings__c/fields",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "4d0e9c24a46a67bca322c1a73123926429b4222d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/EinsteinAI_Settings__c/fields/Einstein_EMail__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/EinsteinAI_Settings__c/fields/Einstein_EMail__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 350,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "170f2c062d3969d51710fd5e90e2b681ea3bd259",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/MotionDetected__e",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/MotionDetected__e",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "73ac7b790d371597b4a242b836b57407f98172f8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/MotionDetected__e/MotionDetected__e.object-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/MotionDetected__e/MotionDetected__e.object-meta.xml",
+            "isDirectory": false,
+            "size": 489,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "622d9ae9cd53a6c19e633cfd58ef773041808bd3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/MotionDetected__e/fields",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/MotionDetected__e/fields",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "a2c0a076a1cdc541f8204b9811b2ac80f1914493",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/MotionDetected__e/fields/DeviceId__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/MotionDetected__e/fields/DeviceId__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 459,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "a57887a987f14de1b7598e513eb98406957f785a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Ride_Complete__e",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Ride_Complete__e",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "fcc360278745584686611e77d10519115c2a2aa0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Ride_Complete__e/Ride_Complete__e.object-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Ride_Complete__e/Ride_Complete__e.object-meta.xml",
+            "isDirectory": false,
+            "size": 430,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "dd08e5495ea22a1fd182b11c03dcb05840ca259e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Ride_Complete__e/fields",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Ride_Complete__e/fields",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "a2c0a076a1cdc541f8204b9811b2ac80f1914493",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Ride_Complete__e/fields/DeviceId__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Ride_Complete__e/fields/DeviceId__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 459,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "a57887a987f14de1b7598e513eb98406957f785a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Ride__c",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Ride__c",
+            "isDirectory": true,
+            "size": 170,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "d26e9c121a43e16fd1e26f944a4f9e7bfcaffcdc",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Ride__c/Ride__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Ride__c/Ride__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2421,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "f24d02035c2e1bd756e47b6a45bf31a40ec567c0",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Ride__c/fields",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Ride__c/fields",
+            "isDirectory": true,
+            "size": 374,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "288e9f1e259f1aacc581f26ad7ef696a69bc54ad",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Ride__c/fields/Confidence_1__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Ride__c/fields/Confidence_1__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 372,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "989ae7c1b761b03dafd8b1a6aae159c753546def",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Ride__c/fields/Confidence_2__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Ride__c/fields/Confidence_2__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 372,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "aa2f09afae50c59e1964d021a496b7a56609d01f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Ride__c/fields/Confidence_3__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Ride__c/fields/Confidence_3__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 372,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "22091d1215e68cf49921aae20a7ee89ede75f09f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Ride__c/fields/Elevator__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Ride__c/fields/Elevator__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 494,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "50970d881057a7ddcfb26ea0b2169d761d71ac82",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Ride__c/fields/PictureIdText__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Ride__c/fields/PictureIdText__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 372,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "d25d90229350fbb3614af80eef3670c74bde6f86",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Ride__c/fields/Predicted_Rider_1__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Ride__c/fields/Predicted_Rider_1__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 381,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "bd75c94d48784dfa0067f3cf8ee80aa955017308",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Ride__c/fields/Predicted_Rider_2__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Ride__c/fields/Predicted_Rider_2__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 381,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "d612664d57e253e62f8de4c86117d2310afeca35",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Ride__c/fields/Predicted_Rider_3__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Ride__c/fields/Predicted_Rider_3__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 381,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "9d4f0450d4656cdf38b283b71183ab78b1ee6275",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Ride__c/fields/Rider__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Ride__c/fields/Rider__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 490,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "7ec871cd9dcfd8f179f2fd82340d6c2fde7d1c86",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Ride__c/listViews",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Ride__c/listViews",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Ride__c/listViews/All.listView-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Ride__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 549,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "43c8b69d153b1a28910d0e0ba340fe88dcf7ce60",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Rider_Predicted__e",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Rider_Predicted__e",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "6ceee2d83f8bbb811c5d0df80091f0257fad3eba",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Rider_Predicted__e/Rider_Predicted__e.object-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Rider_Predicted__e/Rider_Predicted__e.object-meta.xml",
+            "isDirectory": false,
+            "size": 491,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "8560504278f00436bd42b212e249f24c2f8bce71",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Rider_Predicted__e/fields",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Rider_Predicted__e/fields",
+            "isDirectory": true,
+            "size": 306,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "466f982a0c536b0d6807d95b27a5d1bc49398826",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Rider_Predicted__e/fields/DeviceId__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Rider_Predicted__e/fields/DeviceId__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 459,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "a57887a987f14de1b7598e513eb98406957f785a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Rider_Predicted__e/fields/Favorite_Music__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Rider_Predicted__e/fields/Favorite_Music__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 472,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "7d5908d793d6cda87c40c69cbf8422088b7af4af",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Rider_Predicted__e/fields/Favorite_Sport__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Rider_Predicted__e/fields/Favorite_Sport__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 472,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "c93ec27d7e81ad873239f984128942644ea80c33",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Rider_Predicted__e/fields/Known__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Rider_Predicted__e/fields/Known__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 414,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "c691abe6175556237e5d37f32620ee9742b6dc33",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Rider_Predicted__e/fields/Name__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Rider_Predicted__e/fields/Name__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 452,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "e692ac78b80bfc7539ce6217d8d177f74ef1615b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Rider_Predicted__e/fields/Office_Floor__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Rider_Predicted__e/fields/Office_Floor__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 495,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "111def1b753e2e6a7b1b388654af6f4a105c499b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Rider_Predicted__e/fields/RideId__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Rider_Predicted__e/fields/RideId__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 456,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "52e9d5fd8135e754720f7f94edc77d7b9ceec80f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/TakeRiderToFloor__e",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/TakeRiderToFloor__e",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "96351f61ebbf56a6f7f617088743f5ddc9f3d30d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/TakeRiderToFloor__e/TakeRiderToFloor__e.object-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/TakeRiderToFloor__e/TakeRiderToFloor__e.object-meta.xml",
+            "isDirectory": false,
+            "size": 470,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "232fc8b42b4644b85bec7c990dbd83ff3c4aa4f5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/TakeRiderToFloor__e/fields",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/TakeRiderToFloor__e/fields",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "695f207b6d58a92029fad4a6f7b25ebbdcebf1ff",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/TakeRiderToFloor__e/fields/Floor__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/TakeRiderToFloor__e/fields/Floor__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 480,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "224b6677db6770f4ac1d232cae287b3b96b1460a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/staticresources",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/staticresources",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "8da06e8af29b11002183d7c7a346b1b334b7cd3c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/staticresources/cometdjs.js",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/staticresources/cometdjs.js",
+            "isDirectory": false,
+            "size": 125858,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "e913d4e230919f88e214cf8c0ebcba1f1a92f7f9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/staticresources/cometdjs.resource-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/staticresources/cometdjs.resource-meta.xml",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "c5ae89a08d0469ad1b16ff5ef26d4cf4b7ffe209",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/tabs",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/tabs",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "5328693db461db694f27507670d05565d004bdd2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/tabs/LegoLand_Cube_Dwellers_Elevator_v2.tab-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/tabs/LegoLand_Cube_Dwellers_Elevator_v2.tab-meta.xml",
+            "isDirectory": false,
+            "size": 355,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "3c049f8133698f938abb92ecfe0ca28662a9a098",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/tabs/Ride__c.tab-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/tabs/Ride__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 220,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "8f92a3af7f3640e1db0b71f01dd8e122d6a33d98",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/triggers",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/triggers",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "58c16a2a4790442a951d1f532372c6263327b7ad",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/triggers/ApproachingRiderTrigger.trigger",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/triggers/ApproachingRiderTrigger.trigger",
+            "isDirectory": false,
+            "size": 245,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "e3e7e79581e17ea3cc10f13e562833f88eb56116",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/triggers/ApproachingRiderTrigger.trigger-meta.xml",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/triggers/ApproachingRiderTrigger.trigger-meta.xml",
+            "isDirectory": false,
+            "size": 178,
+            "modifiedTime": 1510959507000,
+            "changeTime": 1510959507000,
+            "contentHash": "f4fa2f66f8bb3776185595bdb1839ef7e913cd99",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator",
+            "isDirectory": true,
+            "size": 238,
+            "modifiedTime": 1510959518000,
+            "changeTime": 1510959518000,
+            "contentHash": "3dae32c665681fc89661729c131899b7036b97f4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/permissionsets/Connected_Elevator.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/permissionsets/Connected_Elevator.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17652,
+            "modifiedTime": 1511137390000,
+            "changeTime": 1511137390000,
+            "contentHash": "712c014dd38168d4e8d8e1cf85ac4b5bc2d55837"
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/permissionsets",
+        {
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1511023716000,
+            "changeTime": 1511023716000,
+            "contentHash": "bb19b69a6beeb21338e622c50f3549bd5e6a7143",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Asset/listViews/all.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Asset/listViews/all.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 432,
+            "modifiedTime": 1511137390000,
+            "changeTime": 1511137390000,
+            "contentHash": "8c4655e87f7e80b4f6dd87be64dfb4c3257bddaa"
+        }
+    ],
+    [
+        "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Asset/listViews",
+        {
+            "state": "u",
+            "sourcePath": "/Users/dschultz/Google Drive/Projects/ConnectedElevator/SFDX/ConnectedElevator/force-app/main/default/objects/Asset/listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1511137390000,
+            "changeTime": 1511137390000,
+            "contentHash": "a6e02304abb001b905f272650efc8613df5aa610"
+        }
+    ]
+]

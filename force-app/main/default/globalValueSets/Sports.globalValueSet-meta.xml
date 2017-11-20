@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Football</fullName>
+        <default>false</default>
+        <label>Football</label>
+    </customValue>
+    <customValue>
+        <fullName>Baseball</fullName>
+        <default>false</default>
+        <label>Baseball</label>
+    </customValue>
+    <customValue>
+        <fullName>Hockey</fullName>
+        <default>false</default>
+        <label>Hockey</label>
+    </customValue>
+    <customValue>
+        <fullName>Basketball</fullName>
+        <default>false</default>
+        <label>Basketball</label>
+    </customValue>
+    <customValue>
+        <fullName>Curling</fullName>
+        <default>false</default>
+        <label>Curling</label>
+    </customValue>
+    <masterLabel>Sports</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

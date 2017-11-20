@@ -1,0 +1,72 @@
+<aura:component implements="flexipage:availableForAllPageTypes,forceCommunity:availableForAllPageTypes" controller="LegoUtility" access="global">
+    
+    <aura:handler name="init" value="{!this}" action="{!c.onInit}"/>
+    <ltng:require scripts="{!$Resource.cometdjs}" afterScriptsLoaded="{!c.onCometdLoaded}"/>
+  
+    <aura:attribute name="sessionId" type="String"/>
+    <aura:attribute name="cometd" type="Object"/>
+    <aura:attribute name="cometdSubscriptions" type="Object[]"/>
+    
+    <!-- Elevator Panel attributes -->
+    <aura:attribute name="floors" type="Integer[]" default="[1,2,3,4,5,6,7,8]"/>
+    <aura:attribute name="message" type="String" default=""/>
+    
+    <!-- Video attributes -->
+    <aura:attribute name="videoUrl" type="String" description="Add an Embed Video URL" />
+    
+    <!-- Audio attributes -->
+    <aura:attribute name="nowPlayingText" type="String" />
+    
+    
+    
+    <div class="demo-only demo-only--sizing slds-grid slds-wrap slds-p-around_large">
+        <!-- Elevator Panel -->
+        <div class="slds-size_3-of-5">
+                <!-- Button that invokes the picture process -->
+            <div class="slds-form-element slds-align_absolute-center">
+                <button class="slds-button slds-button_brand" onclick="{!c.onDemoButtonPress}">Demo: Rider Approaching</button>
+            </div>
+            <!-- Elevator Button Controls -->
+            <fieldset class="slds-form-element  slds-m-top_large">
+                <legend class="slds-align_absolute-center heading slds-form-element__legend slds-form-element__label"><b>Select Your Floor</b></legend>
+                <div class="slds-align_absolute-center slds-form-element__control">
+                    <div class="slds-radio_button-group">
+                        <aura:iteration items="{!v.floors}" var="floor">
+                            <span class="slds-button slds-radio_button">
+                                <input type="radio" name="radio" id="{!floor}" value="on" onclick="{!c.onFloorClick}" />
+                                <label class="slds-radio_button__label" for="{!floor}">
+                                    <span class="slds-radio_faux">{!floor}</span>
+                                </label>
+                            </span>
+                        </aura:iteration>
+                    </div>
+                </div>
+            </fieldset>
+        </div>
+        
+        <!-- Audio player -->
+        <div class="slds-size_2-of-5">
+            <legend class="slds-align_absolute-center heading slds-form-element__legend slds-form-element__label"><b>Now Playing</b></legend>
+        	<div class="nowPlayingText slds-size_1-of-1 slds-align_absolute-center slds-border_right slds-border_left slds-border_top slds-border_bottom" >
+            	<lightning:formattedRichText value="{!v.nowPlayingText}" />
+        	</div> 
+        </div>
+        
+        <!-- Rider information panel -->
+        <div class="slds-size_3-of-5 slds-m-top_large">
+            <fieldset class="slds-form-element">
+                <legend class="heading slds-align_absolute-center slds-form-element__legend slds-form-element__label"><b>Rider Information Panel</b></legend>
+                <div class="message slds-align_absolute-center slds-border_right slds-border_left slds-border_top slds-border_bottom" >
+                    <lightning:formattedRichText value="{!v.message}" />
+                </div> 
+            </fieldset>
+        </div>
+        
+        <!-- Video highlights -->
+        <div class="slds-size_2-of-5 slds-m-top_large">
+            <legend class="slds-align_absolute-center heading slds-form-element__legend slds-form-element__label"><b>Catch the Highlights</b></legend>
+            <iframe class="video slds-align_absolute-center" src="{!v.videoUrl}"></iframe>
+        </div>
+        
+    </div>
+</aura:component>

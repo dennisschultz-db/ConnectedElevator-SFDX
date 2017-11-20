@@ -1,0 +1,18 @@
+.THIS {
+	background-color: #fff;
+}
+
+.THIS .heading {
+    font-size: 1.2rem;
+    text-align: center;
+    color: t(colorTextActionLabelActive);
+}
+
+.THIS .video {
+    height: 150px;
+    width: 200px;
+    background-color: #fff;
+    border: 2px solid;
+    border-color: t(colorBorder);
+    border-radius: 5px;
+}

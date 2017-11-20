@@ -1,0 +1,37 @@
+.THIS {
+	background-color: t(colorBackgroundAltInverse);
+}
+
+.THIS .message {
+    height: 150px;
+    width: 340px;
+    background-color: #fff;
+    border: 2px solid;
+    border-color: t(colorBorder);
+    border-radius: 5px;
+    padding-left: 3px;
+}
+
+.THIS .nowPlayingText {
+    height: 100px;
+    width: 200px;
+    background-color: #fff;
+    border: 2px solid;
+    border-color: t(colorBorder);
+    border-radius: 5px;
+}
+
+.THIS .video {
+    height: 150px;
+    width: 200px;
+    background-color: #fff;
+    border: 2px solid;
+    border-color: t(colorBorder);
+    border-radius: 5px;
+}
+
+.THIS .heading {
+    font-size: 1.2rem;
+    text-align: center;
+    color: t(colorTextIconInverseActive);
+}

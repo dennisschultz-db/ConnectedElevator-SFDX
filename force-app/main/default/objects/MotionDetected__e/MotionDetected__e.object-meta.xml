@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <deploymentStatus>Deployed</deploymentStatus>
+    <description>Fired by a UI button to simulate a motion detector in the elevator lobby. The Raspberry Pi subscribes to this event and kicks off the picture taking cycle in response.</description>
+    <eventType>StandardVolume</eventType>
+    <label>MotionDetected</label>
+    <pluralLabel>MotionDetected</pluralLabel>
+</CustomObject>

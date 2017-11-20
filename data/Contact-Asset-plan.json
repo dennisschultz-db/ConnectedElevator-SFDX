@@ -1,0 +1,18 @@
+[
+    {
+        "sobject": "Contact",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "Contacts.json"
+        ]
+    },
+    {
+        "sobject": "Asset",
+        "saveRefs": false,
+        "resolveRefs": true,
+        "files": [
+            "Assets.json"
+        ]
+    }
+]

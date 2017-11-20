@@ -1,0 +1,10 @@
+[
+    {
+        "sobject": "Asset",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "Assets.json"
+        ]
+    }
+]

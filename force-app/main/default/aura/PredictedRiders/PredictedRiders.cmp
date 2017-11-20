@@ -1,0 +1,19 @@
+<aura:component implements="flexipage:availableForRecordHome,force:hasRecordId" controller="LegoUtility" access="global" >
+    <aura:attribute name="images" type="String[]" />
+    <aura:attribute name="recordId" type="Id" />
+    
+    <aura:handler name="init" value="{!this}" action="{!c.onInit}" />
+    
+    <lightning:card iconName="action:user" title="Likely Riders">
+        <H1>Approaching rider:</H1>
+        <div class="slds-m-around_large">
+            <img src="{!v.images[0]}"/>  
+        </div>
+        <H1>Likely employees:</H1>
+        <img class="slds-size_1-of-3 slds-p-around_large" src="{!v.images[1]}"/>
+        <img class="slds-size_1-of-3 slds-p-around_large" src="{!v.images[2]}"/>  
+        <img class="slds-size_1-of-3 slds-p-around_large" src="{!v.images[3]}"/>  
+    </lightning:card>
+    
+    
+</aura:component>

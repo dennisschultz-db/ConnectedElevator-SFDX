@@ -1,0 +1,16 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Asset",
+                "referenceId": "AssetRef1"
+            },
+            "Name": "LegoLand Elevator",
+            "Status": "Registered",
+            "PurchaseDate": "2017-10-10",
+            "DeviceId__c": "ELEVATOR-001",
+            "Recognition_Threshold__c": 70,
+            "AccountId": "@AccountRef1"
+        }
+    ]
+}

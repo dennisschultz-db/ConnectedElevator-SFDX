@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Country</fullName>
+        <default>false</default>
+        <label>Country</label>
+    </customValue>
+    <customValue>
+        <fullName>Rock</fullName>
+        <default>false</default>
+        <label>Rock</label>
+    </customValue>
+    <customValue>
+        <fullName>Hip Hop</fullName>
+        <default>false</default>
+        <label>Hip Hop</label>
+    </customValue>
+    <customValue>
+        <fullName>Classic</fullName>
+        <default>false</default>
+        <label>Classic</label>
+    </customValue>
+    <customValue>
+        <fullName>Show Tunes</fullName>
+        <default>false</default>
+        <label>Show Tunes</label>
+    </customValue>
+    <masterLabel>Music Genres</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

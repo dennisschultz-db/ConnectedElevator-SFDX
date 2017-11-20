@@ -1,0 +1,22 @@
+<aura:component implements="flexipage:availableForAllPageTypes,forceCommunity:availableForAllPageTypes" controller="LegoUtility" access="global">
+    <aura:attribute name="staticImageName" type="String" default="OrchestrationMonitoring"/>
+    <aura:attribute name="wasLastRiderKnown" type="Boolean" />
+    
+    <aura:handler name="init" value="{!this}" action="{!c.onInit}"/>
+    
+    <ltng:require scripts="{!$Resource.cometdjs}" afterScriptsLoaded="{!c.onCometdLoaded}"/>
+    <aura:attribute name="sessionId" type="String"/>
+    <aura:attribute name="cometd" type="Object"/>
+    <aura:attribute name="cometdSubscriptions" type="Object[]"/>
+    
+    <div class="demo-only demo-only--sizing slds-grid slds-wrap slds-p-around_large">
+        
+        <div class="slds-size_1-of-1">
+            <legend class="slds-align_absolute-center heading slds-form-element__legend slds-form-element__label"><b>myIoT Orchestration</b></legend>
+            <img src="{!'/resource/' + v.staticImageName}" />
+            <!-- Video will not autoplay on mobile, even muted
+            <video muted="true" class="video" autoplay="true" src="{!'/resource/' + v.staticImageName}"/>
+			-->
+        </div>	
+    </div>
+</aura:component>

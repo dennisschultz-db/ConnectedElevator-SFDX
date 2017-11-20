@@ -1,0 +1,20 @@
+.THIS {
+	background-color: #fff;
+}
+
+.THIS .heading {
+    font-size: 1.2rem;
+    text-align: center;
+    color: t(colorTextActionLabelActive);
+}
+
+.THIS .profilepic {
+    border: 2px solid black;
+    border-radius: 15%;
+}
+
+.THIS .label {
+    font-size: 1.0rem;
+    text-align: center;
+    color: t(colorTextActionLabelActive);
+}

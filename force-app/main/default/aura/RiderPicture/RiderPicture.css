@@ -1,0 +1,9 @@
+.THIS {
+	background-color: #fff;
+}
+
+.THIS .heading {
+    font-size: 1.2rem;
+    text-align: center;
+    color: t(colorTextActionLabelActive);
+}

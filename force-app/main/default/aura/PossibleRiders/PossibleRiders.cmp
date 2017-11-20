@@ -1,0 +1,24 @@
+<aura:component implements="flexipage:availableForAllPageTypes,forceCommunity:availableForAllPageTypes" controller="LegoUtility" access="global">
+    <aura:handler name="init" value="{!this}" action="{!c.onInit}"/>
+    <ltng:require scripts="{!$Resource.cometdjs}" afterScriptsLoaded="{!c.onCometdLoaded}"/>
+    
+    <aura:attribute name="sessionId" type="String"/>
+    <aura:attribute name="cometd" type="Object"/>
+    <aura:attribute name="cometdSubscriptions" type="Object[]"/>
+    
+    <aura:attribute name="predictions" type="LegoPrediction[]" default='' />    
+    
+    <div class="demo-only demo-only--sizing slds-grid slds-wrap slds-p-around_large">
+        <legend class="slds-size_1-of-1 slds-align_absolute-center heading slds-form-element__legend slds-form-element__label"><b>Predictions</b></legend>
+        <aura:iteration items="{!v.predictions}" var="prediction">
+            <div class="slds-size_1-of-3">
+                <legend class="label slds-align_absolute-center slds-form-element__legend slds-form-element__label"><b>{!prediction.name}</b></legend>
+                <legend class="label slds-align_absolute-center slds-form-element__legend slds-form-element__label">{!prediction.likelihood}</legend>
+                <div class="slds-m-around_small ">
+                    <img class="profilepic" src="{!'/sfc/servlet.shepherd/version/download/' + prediction.imageId}"/>  
+                </div>
+            </div>
+        </aura:iteration>
+    </div>
+    
+</aura:component>

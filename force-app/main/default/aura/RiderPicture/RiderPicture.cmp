@@ -1,0 +1,20 @@
+<aura:component implements="flexipage:availableForAllPageTypes,forceCommunity:availableForAllPageTypes" controller="LegoUtility" access="global">
+    
+    <aura:handler name="init" value="{!this}" action="{!c.onInit}"/>
+    <ltng:require scripts="{!$Resource.cometdjs}" afterScriptsLoaded="{!c.onCometdLoaded}"/>
+    
+    <aura:attribute name="sessionId" type="String"/>
+    <aura:attribute name="cometd" type="Object"/>
+    <aura:attribute name="cometdSubscriptions" type="Object[]"/>
+    
+    <aura:attribute name="pictureUrl" type="String" />
+    
+    <div class="demo-only demo-only--sizing slds-grid slds-wrap slds-p-around_large">
+        <div class="slds-size_1-of-1">
+            <legend class="slds-align_absolute-center heading slds-form-element__legend slds-form-element__label"><b>Approaching Rider</b></legend>
+            <div class="slds-m-around_large">
+                <img src="{!v.pictureUrl}"/>  
+            </div>
+        </div>
+    </div>
+</aura:component>
